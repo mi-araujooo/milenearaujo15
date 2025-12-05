@@ -2,15 +2,28 @@
 Estudante de Desenvolvimento Web, iniciando minha jornada em programação e explorando tanto front-end quanto back-end.
 
 ## 💻Tecnologias e habilidades
-- ![JavaScript - ](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- Node.js – iniciante
-- React.js – iniciante
-- Python – básico
-- Node-RED – avançado
-- MySQL – básico/intermediário
+<p align="center">
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-Intermediário%2FAvançado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-Iniciante-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  
+  <!-- React.js -->
+  <img src="https://img.shields.io/badge/React.js-Iniciante-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-Básico-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  
+  <!-- Node-RED -->
+  <img src="https://img.shields.io/badge/Node--RED-Avançado-FF0000?style=for-the-badge&logo=node-red&logoColor=white" alt="Node-RED"/>
+  
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-Básico%2FIntermediário-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Nível](https://img.shields.io/badge/Nível-Avançado-blue?style=for-the-badge)
+
+
 
 ## 🌱Sobre mim
 - Focada em crescimento contínuo como desenvolvedora web

@@ -10,7 +10,8 @@ Estudante de Desenvolvimento Web, iniciando minha jornada em programação e exp
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Nível](https://img.shields.io/badge/Nível-Básico/Intermediário-f0ad4e?style=for-the-badge)
 - ![Python](https://img.shields.io/badge/Python-eb6e34?style=for-the-badge&logo=python&logoColor=white) ![Nível](https://img.shields.io/badge/Nível-Básico-d9534f?style=for-the-badge)
 
-
+🛠 Outras Tecnologias
+- Node-RED ![Nível](https://img.shields.io/badge/Nível-Avançado-ff6f61?style=for-the-badge)
 
 ## 🌱Sobre mim
 - Focada em crescimento contínuo como desenvolvedora web

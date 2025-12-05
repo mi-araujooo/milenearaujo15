@@ -2,12 +2,15 @@
 Estudante de Desenvolvimento Web, iniciando minha jornada em programação e explorando tanto front-end quanto back-end.
 
 ## 💻Tecnologias e habilidades
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![JavaScript - ](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - Node.js – iniciante
 - React.js – iniciante
 - Python – básico
 - Node-RED – avançado
 - MySQL – básico/intermediário
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Nível](https://img.shields.io/badge/Nível-Avançado-blue?style=for-the-badge)
 
 ## 🌱Sobre mim
 - Focada em crescimento contínuo como desenvolvedora web

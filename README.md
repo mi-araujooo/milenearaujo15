@@ -2,7 +2,7 @@
 Estudante de Desenvolvimento Web, iniciando minha jornada em programação e explorando tanto front-end quanto back-end.
 
 ## 💻Tecnologias e habilidades
-- JavaScript – intermediário/avançado
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - Node.js – iniciante
 - React.js – iniciante
 - Python – básico

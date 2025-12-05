@@ -2,7 +2,6 @@
 Estudante de Desenvolvimento Web, iniciando minha jornada em programação e explorando tanto front-end quanto back-end.
 
 ## 💻Tecnologias e habilidades
-- ![JavaScript - Avançado](https://img.shields.io/badge/JavaScript-Avançado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Nível](https://img.shields.io/badge/Nível-Avançado-blue?style=for-the-badge)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Nível](https://img.shields.io/badge/Nível-Avançado-blue?style=for-the-badge)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

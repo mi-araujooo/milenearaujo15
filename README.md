@@ -15,3 +15,12 @@ Estudante de Desenvolvimento Web, iniciando minha jornada em programação e exp
 - Focada em crescimento contínuo como desenvolvedora web
 - Interessada em lógica, algoritmos e construção de projetos do zero
 - Aberta a desafios e oportunidades de aprendizado
+
+## 🛠️ Stack
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30"/>
+</div>

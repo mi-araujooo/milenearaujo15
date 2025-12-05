@@ -3,7 +3,7 @@ Estudante de Desenvolvimento Web, iniciando minha jornada em programação e exp
 
 
 ## 💻Tecnologias e habilidades
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Nível](https://img.shields.io/badge/Nível-Intermediário%2FAvançado-5bc0de?style=for-the-badge&labelColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Nível](https://img.shields.io/badge/Nível-Intermediário%2FAvançado-5bc0de?style=for-the-badge)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Nível](https://img.shields.io/badge/Nível-Intermediário%2FAvançado-5bc0de?style=for-the-badge)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Nível](https://img.shields.io/badge/Nível-Básico/Intermediário-f0ad4e?style=for-the-badge)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Nível](https://img.shields.io/badge/Nível-Básico-d9534f?style=for-the-badge)

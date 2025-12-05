@@ -8,7 +8,7 @@ Estudante de Desenvolvimento Web, iniciando minha jornada em programação e exp
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Nível](https://img.shields.io/badge/Nível-Básico%2FAvançado-d9534f?style=for-the-badge)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Nível](https://img.shields.io/badge/Nível-Básico%2FAvançado-d9534f?style=for-the-badge)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Nível](https://img.shields.io/badge/Nível-Básico/Intermediário%2FAvançado-f0ad4e?style=for-the-badge)
-- ![Python](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=python&logoColor=white) ![Nível](https://img.shields.io/badge/Nível-Básico%2FAvançado-d9534f?style=for-the-badge)
+- ![Python](https://img.shields.io/badge/python-4479A1?style=for-the-badge&logo=python&logoColor=white) ![Nível](https://img.shields.io/badge/Nível-Básico%2FAvançado-d9534f?style=for-the-badge)
 
 
 ## 🌱Sobre mim

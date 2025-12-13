@@ -5,9 +5,6 @@
 🚀 Construindo projetos para praticar lógica, JavaScript e interfaces modernas
 
 ## 💻 Tecnologias e habilidades
-<img src="https://img.shields.io/badge/JavaScript-e63946?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-b11226?style=for-the-badge&logo=react&logoColor=white" />
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="72" />

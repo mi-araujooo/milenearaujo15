@@ -5,7 +5,7 @@
 🚀 Construindo projetos para praticar lógica, JavaScript e interfaces modernas
 
 ## 💻 Tecnologias e habilidades
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&layout=compact&theme=red" width="380" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&layout=compact&theme=Red" width="380" />
 
 
 

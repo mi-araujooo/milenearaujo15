@@ -3,7 +3,7 @@ Estudante de Desenvolvimento Web, iniciando minha jornada em programação e exp
 
 
 ## 💻Tecnologias e habilidades
-<div align="rigth">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />

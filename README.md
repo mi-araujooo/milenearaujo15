@@ -13,6 +13,8 @@ Estudante de Desenvolvimento Web, iniciando minha jornada em programação e exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
+
 </div>
 
 ###

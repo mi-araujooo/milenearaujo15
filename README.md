@@ -3,8 +3,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Tecnologias%20e%20Habilidades-e63946?style=for-the-badge" />
-
---
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&layout=compact&bg_color=0d1117&title_color=e63946&text_color=f2f2f2" width="380" />
 
 <div align="left">
@@ -21,7 +20,7 @@
 
 <br clear="right"/>
 
---
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <img src="https://img.shields.io/badge/Atualmente%20e%20Estudando-e63946?style=for-the-badge" />
 - JavaScript (lógica e projetos práticos)
 - React JS

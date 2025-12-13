@@ -4,8 +4,6 @@
 💻 Focada em Front-end, explorando também Back-end  
 🚀 Construindo projetos para praticar lógica, JavaScript e interfaces modernas
 
----
-
 ## 💻 Tecnologias e habilidades
 
 <div align="center">

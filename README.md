@@ -6,9 +6,9 @@
 
 ## 💻 Tecnologias e habilidades
 
-
 <table width="100%">
   <tr>
+    <!-- Coluna esquerda: ícones -->
     <td align="left" valign="middle">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
       <img width="12" />
@@ -20,9 +20,11 @@
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" />
     </td>
+    <!-- Coluna do meio: espaço -->
     <td width="100%"></td>
+    <!-- Coluna direita: gráfico -->
     <td align="right" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&locale=pt-br&layout=compact&theme=dark" height="150" width="350px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&locale=pt-br&layout=compact&theme=dark" height="150" />
     </td>
   </tr>
 </table>

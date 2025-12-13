@@ -6,7 +6,7 @@
 
 ## 💻 Tecnologias e habilidades
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" />
@@ -20,7 +20,7 @@
 
 <br />
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mi-araujooo&locale=pt-br&layout=compact&theme=dark" height="150" />
 </div>
 

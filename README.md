@@ -9,7 +9,7 @@
 <table width="100%">
   <tr>
     <!-- Esquerda -->
-    <td width="70%" align="left" valign="middle">
+    <td width="10%" align="left" valign="middle">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" />

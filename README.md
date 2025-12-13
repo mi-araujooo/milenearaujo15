@@ -18,8 +18,7 @@
 
 <br clear="right"/>
 
-
-## 📚 Atualmente estudando
+## 🎯  Atualmente estudando
 - JavaScript (lógica e projetos práticos)
 - React JS
 - Fundamentos de programação
